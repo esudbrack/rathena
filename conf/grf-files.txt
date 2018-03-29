@@ -2,11 +2,11 @@
 // GRF Files
 // Add as many as needed.
 //-----------------------------------------
-//grf: C:\Program Files\Gravity\RO\rdata.grf
-//grf: C:\Program Files\Gravity\RO\data.grf
+grf: C:\Users\esudbrack\Downloads\[RATHENA]\kRO_FullClient_20171009\rdata.grf
+grf: C:\Users\esudbrack\Downloads\[RATHENA]\kRO_FullClient_20171009\data.grf
 
 //-----------------------------------------
 // Data Directory
 // Use the base folder, not the data\ path.
 //-----------------------------------------
-//data_dir: C:\Program Files\Gravity\RO\
+//data_dir: C:\Users\esudbrack\Downloads\[RATHENA]\kRO_FullClient_20171009\
